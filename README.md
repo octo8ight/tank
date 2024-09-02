@@ -4,7 +4,7 @@
 
 ## How to use
 
-1. Clone repository or download [archive](https://github.com/dmitrymorozoff/xtanks.git)
+1. Clone repository or download [archive](https://github.com/octo8ight/tank.git)
 2. Install dependencies in console `npm install`
 3. Launch a dev-server `npm run dev` and let magic happen
 
